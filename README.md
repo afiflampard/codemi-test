@@ -7,10 +7,10 @@ This project use Codemi Test
 
 ## Screenshot
 
-1. Init
+1. Init <br>
 ![Screen Shot 2021-11-04 at 14 59 56](https://user-images.githubusercontent.com/38213185/140282356-6b027d12-0c35-4db0-a5d1-33de64e1ffd8.png) <br>
 
-2. Status
+2. Status <br>
 ![Screen Shot 2021-11-04 at 15 00 37](https://user-images.githubusercontent.com/38213185/140282408-c5c2ae97-a194-4b0e-a2f9-30a679f4665f.png)
  <br>
 
